@@ -5,5 +5,4 @@ title: Test Post
 
 This is my first post.
 
-![DSC_0534.jpg]({{ site.baseurl }}/images/config.png)
-
+![_config.yml]({{ site.baseurl }}/images/DSC_0534.jpg)
