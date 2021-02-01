@@ -1,5 +1,5 @@
-...
+---
 layout: post
 title: Test Post
-...
+---
 This is my first post.
